@@ -1,0 +1,6 @@
+flask==2.2.5
+Werkzeug==2.2.3
+
+# Uncomment these when you add your fine-tuned BERT model weights:
+# torch>=2.0.0
+# transformers>=4.30.0
